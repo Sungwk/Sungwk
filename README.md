@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kso2749)](https://solved.ac/kso2749)
+// [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kso2749)](https://solved.ac/kso2749)
